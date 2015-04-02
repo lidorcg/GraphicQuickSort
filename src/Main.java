@@ -20,5 +20,4 @@ public class Main {
         System.out.println(Arrays.toString(A));
         g.Draw(A, 0, n, -1, -1, 0);
     }
-
 }
